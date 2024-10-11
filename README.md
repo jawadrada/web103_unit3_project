@@ -32,8 +32,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
+https://www.loom.com/share/c299080f312e42e8a08c7347b74d81b3?sid=4ea75a43-b8a5-4286-a3cc-f39ec61d0aa5
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  GIF tool here
@@ -41,6 +41,11 @@ GIF created with ...  GIF tool here
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
+
+<img width="909" alt="Screenshot 2024-10-11 at 4 43 02 PM" src="https://github.com/user-attachments/assets/d05603f8-ee95-4d28-bf04-4366c4140d64">
+
+<img width="904" alt="Screenshot 2024-10-11 at 4 43 08 PM" src="https://github.com/user-attachments/assets/23fda0c9-799f-40e3-aac6-0c2ff5e27872">
+
 
 ## Notes
 
